@@ -1,5 +1,5 @@
 def mario
-  puts phrase = "It's-a me, Mario!"
+  puts status = "It's-a me, Mario!"
 end
 
 def toadstool
@@ -10,6 +10,6 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end 
 
-def any_phrase
+def any_phrase(phrase)
   puts {any_phrase}.to output("Do A Barrel Roll!")
 end
