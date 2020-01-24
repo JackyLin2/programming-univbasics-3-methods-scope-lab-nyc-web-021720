@@ -11,5 +11,5 @@ def link
 end 
 
 def any_phrase
-  puts any_phrase(phrase)}.to 
+  puts "Do A Barrel Roll!"
 end
