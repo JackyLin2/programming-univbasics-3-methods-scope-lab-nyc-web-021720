@@ -10,6 +10,6 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end 
 
-def any_phrase(vase)
-  puts vase = {any_phrase(vase)}.to output("Do A Barrel Roll!")
+def any_phrase
+  puts {any_phrase}.to output("Do A Barrel Roll!")
 end
