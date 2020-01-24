@@ -11,5 +11,5 @@ def link
 end 
 
 def any_phrase
-  phrase = {any_phrase(phrase)}.to output("Do A Barrel Roll!\n")
+  phrase = {any_phrase(phrase)}.to output("Do A Barrel Roll!")
 end
