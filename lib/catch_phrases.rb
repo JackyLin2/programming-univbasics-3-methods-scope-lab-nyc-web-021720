@@ -11,4 +11,5 @@ def link
 end 
 
 def any_phrase
-  puts {any_phrase(phrase)}.to 
+  puts any_phrase(phrase)}.to output("Do A Barrel Roll!\n").to_stdout
+end
