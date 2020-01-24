@@ -1,5 +1,5 @@
 def mario
-  puts status = "It's-a me, Mario!"
+  puts "It's-a me, Mario!"
 end
 
 def toadstool
